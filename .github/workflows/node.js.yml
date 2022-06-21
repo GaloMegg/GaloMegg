@@ -26,3 +26,9 @@ jobs:
         cache: 'npm'
     - run: npm install
     - run: npm run update-readme
+    - run: |
+        git config user.name galomegg
+        git config user.email galomeggiolarobul@gmail.com
+        git add README.md
+        git commit -m "updated"
+        git push origin master
