@@ -17,15 +17,7 @@
 
 ### Come and share with me 
 
--Latest Tweets : <div align="center">
-    <a href=https://twitter.com/Wtscrackin/status/1539304300026937353 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
-    <div align="center" style="background-color:#0d0d0d; border-radius:16px; width:
-    60%;">
-    <p style="color:#fafafa; width:50%; font-size:1.2rem;">@Wtscrackin: Next week I'll start a whole new course about #Angular! I've been practicing my typescript, any other advice?💫🙌</p>
-    <img src=https://pbs.twimg.com/media/FVy0-31WQAAmroF.png alt="@Wtscrackin" style="max-width:90%; margin:2%" />
-    </div>
-    </a>
-    </div>
+-Latest Tweet: %{{latest_tweet}}%
 <!-- [![GaloMeggiolaro.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.galomeggiolaro.com/) -->
 
 #### Languages I know...
