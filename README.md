@@ -41,7 +41,7 @@
 
 <!-- ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) -->
 
-####Some of the technologies I have worked with
+#### Some of the technologies I have worked with
 
 <p align="center">
 
