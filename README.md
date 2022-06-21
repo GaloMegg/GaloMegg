@@ -13,11 +13,11 @@
 <!-- [![GaloMeggiolaro.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.galomeggiolaro.com/) -->
 
 ##### Languages I know...
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galomegg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### Some of the technologies I have worked with
 
