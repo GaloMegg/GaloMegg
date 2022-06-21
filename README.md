@@ -13,7 +13,7 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wtscrackin)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galomeggiolarobul@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frontendgalomeggiolaro/)
-[![Twitter](https://img.shields.io/badge/-TWITTER-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/Wtscrackin])
+[![Twitter](https://img.shields.io/badge/-TWITTER-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Wtscrackin)
 
 <!-- [![GaloMeggiolaro.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.galomeggiolaro.com/) -->
 
