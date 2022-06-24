@@ -18,10 +18,10 @@
 ### Come and share with me 
 
 -Latest Tweet: <div align="center">
-    <a href=https://twitter.com/Wtscrackin/status/1539945646744080385 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
+    <a href=https://twitter.com/Wtscrackin/status/1540394731817025536 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
     <div align="center" style="background-color:#0d0d0d; border-radius:16px; width:
     60%;">
-    <p style="color:#fafafa; width:50%; font-size:1.2rem;">@Wtscrackin: My neighbor is learning how to play violin, I need: —new headphones with active noise-canceling.—new neighbors</p>
+    <p style="color:#fafafa; width:50%; font-size:1.2rem;">@Wtscrackin: Hi people! Today I finished my BootCamp. I'll start modeling a DB about HSK and its levels… wish me luck #PostgreSQL</p>
     <p></p>
     </div>
     </a>
