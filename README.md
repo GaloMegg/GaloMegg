@@ -23,7 +23,6 @@
     60%;">
     <p style="color:#fafafa; width:50%; font-size:1.2rem;">@Imatroz: Remember at @KnownOrigin_ioRemembering is a process of storing something for future use. It helps us to keep track of important information and to make it available when we need it.</p>
     <img src=https://pbs.twimg.com/media/FWDg4G0XgAAtz_-.jpg alt="@Imatroz" style="max-width:90%; margin:2%" />
-    imf=enclosure.url? 
     </div>
     </a>
     </div>
