@@ -7,7 +7,7 @@ const LATEST_TWEET__PLACEHOLDER = "%{{latest_tweet}}%";
     let readme = await fs.readFile('README.md.tpl', 'utf8');
     let feed = await parser.parseURL('http://fetchrss.com/rss/62d979201ac725338631044362d97900daf74c2073049b22.xml');
     console.log(feed)
-    const { creator, content, link } = feed.items[0];
+    const { creator, title, link } = feed.items[0];
     const { image } = feed;
     const { url } = image;
     const img = image ? `<img src=${url} alt="${creator}" style="max-width:90%; margin:2%" />` : "<p></p>";
@@ -15,7 +15,7 @@ const LATEST_TWEET__PLACEHOLDER = "%{{latest_tweet}}%";
     <a href=${link} style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
     <div align="center" style="background-color:#0d0d0d; border-radius:16px; width:
     60%;">
-    <p style="color:#fafafa; width:50%; font-size:1.2rem;">${content}</p>
+    <p style="color:#fafafa; width:50%; font-size:1.2rem;">${title}</p>
     ${img}
     </div>
     </a>
