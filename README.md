@@ -24,7 +24,7 @@
     <p style="color:#fafafa; width:50%; font-size:1.2rem;">And all that you do
 And all that you say
 And all that you eat
-And everyone you meet, everyone you meet<br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span></p>
+And everyone you meet, everyone you meet</p>
     <img src=https://res.cloudinary.com/dh2eofcns/provider/twitter.png alt="const {wtscrackin} = galo" style="max-width:90%; margin:2%" />
     </div>
     </a>
