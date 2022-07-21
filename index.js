@@ -5,7 +5,7 @@ const LATEST_TWEET__PLACEHOLDER = "%{{latest_tweet}}%";
 
 (async () => {
     let readme = await fs.readFile('README.md.tpl', 'utf8');
-    let feed = await parser.parseURL('https://rss.app/feeds/ic84UeZrXsfkpYbj.xml');
+    let feed = await parser.parseURL('http://fetchrss.com/rss/62d979201ac725338631044362d97900daf74c2073049b22.xml');
     let { creator, title, link, enclosure } = feed.items[0];
     const img = enclosure ? `<img src=${enclosure.url} alt="${creator}" style="max-width:90%; margin:2%" />`: "<p></p>";
     replaceable = `<div align="center">
