@@ -18,13 +18,10 @@
 ### Come and share with me 
 
 -Latest Tweet: <div align="center">
-    <a href=https://twitter.com/Wtscrackin/status/1549919059713687552 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
+    <a href=https://twitter.com/Wtscrackin/status/1550459745802371073 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
     <div align="center" style="background-color:#0d0d0d; border-radius:16px; width:
     60%;">
-    <p style="color:#fafafa; width:50%; font-size:1.2rem;">And all that you do
-And all that you say
-And all that you eat
-And everyone you meet, everyone you meet</p>
+    <p style="color:#fafafa; width:50%; font-size:1.2rem;">You love blow and I love O log(n)</p>
     <img src=https://res.cloudinary.com/dh2eofcns/provider/twitter.png alt="const {wtscrackin} = galo" style="max-width:90%; margin:2%" />
     </div>
     </a>
