@@ -18,10 +18,10 @@
 ### Come and share with me 
 
 -Latest Tweet: <div align="center">
-    <a href=https://twitter.com/Wtscrackin/status/1560671844264734720 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
+    <a href=https://twitter.com/Wtscrackin/status/1562109769279852545 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
     <div align="center" style="background-color:#0d0d0d; border-radius:16px; width:
     60%;">
-    <p style="color:#fafafa; width:50%; font-size:1.2rem;">Oficialmente deje de fumar... Ya perdi la cuenta de hace cuanto fume la ultima vez</p>
+    <p style="color:#fafafa; width:50%; font-size:1.2rem;">Sun is the same in a relative way but you're older</p>
     <img src=https://res.cloudinary.com/dh2eofcns/provider/twitter.png alt="const {wtscrackin} = galo" style="max-width:90%; margin:2%" />
     </div>
     </a>
