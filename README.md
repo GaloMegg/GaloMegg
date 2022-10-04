@@ -18,10 +18,10 @@
 ### Come and share with me 
 
 -Latest Tweet: <div align="center">
-    <a href=https://twitter.com/Wtscrackin/status/1576316874379661312 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
+    <a href=https://twitter.com/Wtscrackin/status/1577066770623434752 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
     <div align="center" style="background-color:#0d0d0d; border-radius:16px; width:
     60%;">
-    <p style="color:#fafafa; width:50%; font-size:1.2rem;">Como juegan los profesionales de LOL me dan miedo</p>
+    <p style="color:#fafafa; width:50%; font-size:1.2rem;">Algún recruiter que me explique porque hay que poner el cv Y llenar un formulario con los mismos datos del cv (?????)</p>
     <img src=https://res.cloudinary.com/dh2eofcns/provider/twitter.png alt="{{wtscrackin}}" style="max-width:90%; margin:2%" />
     </div>
     </a>
