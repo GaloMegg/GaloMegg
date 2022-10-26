@@ -9,7 +9,6 @@
 🧭 Curiosity killed the cat and me.  
 🌀 Knowledge lover in all senses.
 
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-57f779?style=for-the-badge&logo=whatsapp&logoColor=222222)](https://wa.me/5493446638940)
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wtscrackin)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galomeggiolarobul@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frontendgalomeggiolaro/)
