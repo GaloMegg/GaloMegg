@@ -18,10 +18,11 @@
 ### Come and share with me 
 
 -Latest Tweet: <div align="center">
-    <a href=https://twitter.com/Wtscrackin/status/1596126679956525059 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
+    <a href=https://twitter.com/Wtscrackin/status/1597773133439987712 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
     <div align="center" style="background-color:#0d0d0d; border-radius:16px; width:
     60%;">
-    <p style="color:#fafafa; width:50%; font-size:1.2rem;">Es como 80 de noviembre ya...</p>
+    <p style="color:#fafafa; width:50%; font-size:1.2rem;">Como asistente de código que utilizas?
+Yo tanbine, es genial</p>
     <img src=https://res.cloudinary.com/dh2eofcns/provider/twitter.png alt="{{wtscrackin}}" style="max-width:90%; margin:2%" />
     </div>
     </a>
