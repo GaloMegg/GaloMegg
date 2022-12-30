@@ -18,14 +18,11 @@
 ### Come and share with me 
 
 -Latest Tweet: <div align="center">
-    <a href=https://twitter.com/Wtscrackin/status/1608188305971056640 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
+    <a href=https://twitter.com/Wtscrackin/status/1608287675211022341 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
     <div align="center" style="background-color:#0d0d0d; border-radius:16px; width:
     60%;">
-    <p style="color:#fafafa; width:50%; font-size:1.2rem;">Se imaginan un mundo donde JSX tenga este shorthand?
-
-&lt;Component xprop={xprop}/&gt;➡️➡️&lt;Component xprop /&gt;
-
-Como los ob...</p>
+    <p style="color:#fafafa; width:50%; font-size:1.2rem;">Calentamiento global... 
+Sigan sin separar la basura y consumiendo carne a mas no poder. https://t.co/oTWKG3DZos</p>
     <img src=https://res.cloudinary.com/dh2eofcns/provider/twitter.png alt="{{wtscrackin}}" style="max-width:90%; margin:2%" />
     </div>
     </a>
