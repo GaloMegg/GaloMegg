@@ -18,10 +18,12 @@
 ### Come and share with me 
 
 -Latest Tweet: <div align="center">
-    <a href=https://twitter.com/Wtscrackin/status/1608804824778407939 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
+    <a href=https://twitter.com/Wtscrackin/status/1609731036715405313 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
     <div align="center" style="background-color:#0d0d0d; border-radius:16px; width:
     60%;">
-    <p style="color:#fafafa; width:50%; font-size:1.2rem;">Hoy me levanté con alto autoestima, imagínense que hice prod release</p>
+    <p style="color:#fafafa; width:50%; font-size:1.2rem;">Este 2023 tengo dos objetivos grandes:
+* Sacar el first certificate
+* Hacer ejercicio</p>
     <img src=https://res.cloudinary.com/dh2eofcns/provider/twitter.png alt="{{wtscrackin}}" style="max-width:90%; margin:2%" />
     </div>
     </a>
