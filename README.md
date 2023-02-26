@@ -18,10 +18,10 @@
 ### Come and share with me 
 
 -Latest Tweet: <div align="center">
-    <a href=https://twitter.com/Wtscrackin/status/1622556223672311809 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
+    <a href=https://twitter.com/Wtscrackin/status/1629437805079265280 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
     <div align="center" style="background-color:#0d0d0d; border-radius:16px; width:
     60%;">
-    <p style="color:#fafafa; width:50%; font-size:1.2rem;">Buen día, gente linda, me di cuenta de que en español la "derecha e izquierda" no me cuesta, pero en inglés si 🫠</p>
+    <p style="color:#fafafa; width:50%; font-size:1.2rem;">Por esto hay que saber handelear errores https://t.co/veHtyY1F87</p>
     <img src=https://res.cloudinary.com/dh2eofcns/provider/twitter.png alt="{{wtscrackin}}" style="max-width:90%; margin:2%" />
     </div>
     </a>
