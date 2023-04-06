@@ -18,10 +18,10 @@
 ### Come and share with me 
 
 -Latest Tweet: <div align="center">
-    <a href=https://twitter.com/Wtscrackin/status/1641828069739462657 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
+    <a href=https://twitter.com/Wtscrackin/status/1643291388962824194 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
     <div align="center" style="background-color:#0d0d0d; border-radius:16px; width:
     60%;">
-    <p style="color:#fafafa; width:50%; font-size:1.2rem;">A introducir bugs como un profesional. Y hacer la PR con descripción de FEATURE/n some changes https://t.co/ySy8NEizzS</p>
+    <p style="color:#fafafa; width:50%; font-size:1.2rem;">Acabo de comprarme mi primer teclado mecánico, nada de otro mundo, ni expensive. Creo que es más barato ser ludópata que entrar ...</p>
     <img src=https://res.cloudinary.com/dh2eofcns/provider/twitter.png alt="{{wtscrackin}}" style="max-width:90%; margin:2%" />
     </div>
     </a>
