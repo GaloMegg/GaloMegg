@@ -4,7 +4,7 @@ let parser = new Parser();
 const LATEST_TWEET__PLACEHOLDER = "%{{latest_tweet}}%";
 
 (async () => {
-    let readme = await fs.readFile('README.md.tpl', 'utf8');
+    try{ let readme = await fs.readFile('README.md.tpl', 'utf8');
     let feed = await parser.parseURL('http://fetchrss.com/rss/62d979201ac725338631044362d97900daf74c2073049b22.xml');
     console.log(feed)
     const { creator, title, link } = feed.items[0];
@@ -21,5 +21,7 @@ const LATEST_TWEET__PLACEHOLDER = "%{{latest_tweet}}%";
     </a>
     </div>`
     let readmeWithLatestTweet = readme.replace(LATEST_TWEET__PLACEHOLDER, replaceable);
-    await fs.writeFile('README.md', readmeWithLatestTweet);
+    await fs.writeFile('README.md', readmeWithLatestTweet);}
+    catch(error){console.log(error); throw error}
+   
 })();
