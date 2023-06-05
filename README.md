@@ -17,7 +17,7 @@
 
 ### Come and share with me 
 
--Latest Tweet: <div align="center">
+<!-- -Latest Tweet: <div align="center">
     <a href=https://twitter.com/Wtscrackin/status/1643291388962824194 style="text-decoration:none; padding:2% display:flex; flex-direction:column; justify-content:space-around; aling-items:center;">
     <div align="center" style="background-color:#0d0d0d; border-radius:16px; width:
     60%;">
@@ -25,7 +25,7 @@
     <img src=https://res.cloudinary.com/dh2eofcns/provider/twitter.png alt="{{wtscrackin}}" style="max-width:90%; margin:2%" />
     </div>
     </a>
-    </div>
+    </div> -->
 <!-- [![GaloMeggiolaro.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.galomeggiolaro.com/) -->
 
 #### Languages I know...
