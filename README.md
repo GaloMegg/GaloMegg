@@ -5,7 +5,7 @@
 ### Hi, I'm Galo:
 
 💡 Creativity and Innovation.  
-🎡 Full Stack Developer focused on Front End.  
+🎡 Full Stack Developer.  
 🧭 Curiosity killed the cat and me.  
 🌀 Knowledge lover in all senses.
 
