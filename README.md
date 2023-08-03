@@ -28,7 +28,7 @@
 
 #### Languages I love...
 
-<p align="center">
+<p align="center" title="Languages I love">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galomegg&layout=compact">
 </p>
 <div align="center"> 
